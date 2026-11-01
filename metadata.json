@@ -1,0 +1,6 @@
+{
+  "name": "Global AI Stock Market Intelligence Platform",
+  "description": "Comprehensive global financial terminal tracking international equity markets, breakout scanners, corporate risk intelligence, and fundamental analytics developed by Manjunath KH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
